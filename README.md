@@ -1,0 +1,3 @@
+# Image Classification
+
+This repository is about training different AI models for image classification. More is coming soon...
